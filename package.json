@@ -1,0 +1,63 @@
+{
+  "name": "cheeaun-earth",
+  "version": "0.0.2",
+  "author": "Lim Chee Aun",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "~7.1.4",
+    "babel-core": "~6.26.0",
+    "babel-plugin-external-helpers": "~6.22.0",
+    "babel-preset-env": "~1.6.0",
+    "dotenv": "~4.0.0",
+    "got": "~7.1.0",
+    "napa": "~3.0.0",
+    "paper": "~0.11.4",
+    "postcss-clean": "~1.1.0",
+    "rollup": "~0.50.0",
+    "rollup-plugin-babel": "~3.0.2",
+    "rollup-plugin-node-resolve": "~3.0.0",
+    "rollup-plugin-postcss": "~0.5.5",
+    "rollup-plugin-uglify": "~2.0.1",
+    "rollup-watch": "~4.3.1",
+    "serve": "~6.1.0",
+    "unfetch": "~3.0.0"
+  },
+  "babel": {
+    "presets": [
+      [
+        "env",
+        {
+          "modules": false
+        }
+      ]
+    ],
+    "plugins": [
+      "external-helpers"
+    ]
+  },
+  "now": {
+    "name": "cheeaun-earth",
+    "alias": "cheeaun.earth",
+    "type": "static",
+    "files": [
+      "index.html",
+      "favicon.ico",
+      "assets",
+      "data/checkins.min.geojson",
+      "data/countries"
+    ]
+  },
+  "scripts": {
+    "start": "yarn dev | serve",
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "mapsicon": "if [ ! -d \"node_modules/mapsicon\" ]; then napa Sn3b/mapsicon; fi",
+    "checkins": "yarn foursquare && yarn geojson",
+    "foursquare": "node scripts/get-checkins.js",
+    "geojson": "node scripts/geojson-checkins.js",
+    "countries": "yarn mapsicon && yarn countries-svg && yarn optimize-svg && yarn simplify-svg && yarn optimize-svg",
+    "countries-svg": "node scripts/generate-countries-svg.js",
+    "simplify-svg": "node scripts/simplify-svg.js",
+    "optimize-svg": "svgo -f data/countries/ --multipass -p 0 --config .svgo.yml"
+  }
+}
