@@ -340,6 +340,21 @@ Promise.all([
     },
   }, labelLayerId);
 
+  map.on('click', 'checkins',function(e) {
+    var features = map.queryRenderedFeatures(e.point);
+    // if the features have no info, return nothing
+    if (!features.length) {
+      return;
+    }
+    var feature = features[0];
+    // Populate the popup and set its coordinates
+    // based on the feature found
+    var popup = new mapboxgl.Popup()
+    .setLngLat(feature.geometry.coordinates)
+    .setHTML('<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'><div>' + feature.properties.title + '</div></div>')
+    .addTo(map);
+  });
+
   // TODO: filter by date
   // const filterByDate = (startDate, endDate) => {
   //   map.setFilter('checkins', [
