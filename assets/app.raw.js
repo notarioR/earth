@@ -263,7 +263,7 @@ Promise.all([
     minzoom: 8,
     filter: ['!has', 'point_count'],
     paint: {
-      'circle-radius': 3,
+      'circle-radius': 6,
       'circle-color': color,
       'circle-opacity': .9,
       'circle-stroke-width': 3,
@@ -340,19 +340,25 @@ Promise.all([
     },
   }, labelLayerId);
 
-  map.on('click', 'checkins',function(e) {
+  var popup = new mapboxgl.Popup({
+    closeButton: false,
+    closeOnClick: false
+  })
+
+  map.on('mousemove', 'checkins',function(e) {
     var features = map.queryRenderedFeatures(e.point);
     // if the features have no info, return nothing
     if (!features.length) {
       return;
     }
     var feature = features[0];
-    // Populate the popup and set its coordinates
-    // based on the feature found
-    var popup = new mapboxgl.Popup()
-    .setLngLat(feature.geometry.coordinates)
-    .setHTML('<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'><div>' + feature.properties.title + '</div></div>')
+    popup.setLngLat(feature.geometry.coordinates)
+    .setHTML('<div id=\'popup\' class=\'popup\' code='+feature.properties.id+' style=\'z-index: 10;\'><div>' + feature.properties.title + '</div></div>')
     .addTo(map);
+  });
+
+  map.on('mouseleave', 'checkins', function(){
+    popup.remove()
   });
 
   // TODO: filter by date
