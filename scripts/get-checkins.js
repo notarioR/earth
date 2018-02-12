@@ -13,7 +13,7 @@ const start = (offset = 0) => {
   got('https://api.foursquare.com/v2/users/self/checkins', {
     json: true,
     query: {
-      oauth_token: process.env.ACCESS_TOKEN,
+      oauth_token: process.env.ACCESS_TOKEN_FOURSQUARE,
       limit: LIMIT,
       offset,
       v: '20161201',
