@@ -21,7 +21,6 @@ const start = (offset = 0) => {
     }
   }).then(({body}) => {
     const { items } = body.response.checkins;
-
     if (!items || !items.length){
       console.log('No more items.');
       const FILE = path.resolve(__dirname, '../data/checkins.json');
@@ -36,13 +35,14 @@ const start = (offset = 0) => {
 
     items.forEach((item, i) => {
       try {
-        const {venue, createdAt, timeZoneOffset} = item;
+        // console.log(item, i)
+        const {venue, createdAt, timeZoneOffset, photos} = item;
         if (!venue) return;
         const {id, name, location} = venue;
         if (!location) return;
         const {lat, lng, country, cc} = location;
         const itemDate = new Date(createdAt*1000);
-        checkins.push({id, name, lat, lng, country, cc, createdAt, timeZoneOffset});
+        checkins.push({id, name, lat, lng, country, cc, createdAt, timeZoneOffset, photos});
       } catch (e){
         console.warn(item);
       }

@@ -11,7 +11,7 @@ function tzDate(d, offset){ // date object, timezone offset in minutes
 
 const geojson = {
   type: 'FeatureCollection',
-  features: data.map(({id, name, lng, lat, country, cc, createdAt, timeZoneOffset}) => {
+  features: data.map(({id, name, lng, lat, country, cc, createdAt, timeZoneOffset, photos}) => {
     const _datetime = tzDate(new Date(createdAt*1000), -timeZoneOffset);
     const year = '' + _datetime.getFullYear();
     const month = ('' + (_datetime.getMonth()+1)).padStart(2, '0');
@@ -23,7 +23,8 @@ const geojson = {
         date: parseInt(year + month + day, 10),
         country,
         cc,
-        title: name
+        title: name,
+        photos
       },
       geometry: {
         type: 'Point',

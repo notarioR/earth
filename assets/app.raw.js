@@ -353,7 +353,10 @@ Promise.all([
     }
     var feature = features[0];
     popup.setLngLat(feature.geometry.coordinates)
-    .setHTML('<div id=\'popup\' class=\'popup\' code='+feature.properties.id+' style=\'z-index: 10;\'><div>' + feature.properties.title + '</div></div>')
+    .setHTML(
+      '<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'><div>' 
+      + feature.properties.title + '</div></div>'
+    )
     .addTo(map);
   });
 
