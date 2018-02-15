@@ -1,1 +1,2 @@
-data/checkins.json
+data/checkins.*
+node_modules
