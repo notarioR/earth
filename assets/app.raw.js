@@ -156,6 +156,7 @@ Promise.all([
     _countries[country].checkins_count++;
 
     const nextFeature = data.features[i+1];
+
     if (nextFeature && f.properties.date === nextFeature.properties.date){
       let [ nextLat, nextLng ] = nextFeature.geometry.coordinates;
       // Magic below from https://github.com/mapbox/mapbox-gl-js/issues/3250#issuecomment-294887678
@@ -201,6 +202,20 @@ Promise.all([
     $countries.appendChild($button);
   });
 
+  // LAST 10 CHECKINS
+  data.features.slice(0, 1).forEach((checkins, i) => {
+    console.log(checkins, i)
+    const $button = document.createElement('button');
+    $button.type = 'button';
+    $button.id   = "lastcheckin"
+    $button.innerHTML = "<b>"+ checkins.properties.title +"</b>"
+    $countries.appendChild($button);
+      var bounds = [checkins.geometry.coordinates, checkins.geometry.coordinates];
+    $button.addEventListener('click', (e) => {
+      map.fitBounds(bounds, { padding: 150 });
+    }, false);
+  });
+ 
   const layers = map.getStyle().layers.reverse();
   const labelLayerIdx = layers.findIndex(function (layer) {
     return layer.type !== 'symbol';
@@ -346,16 +361,10 @@ Promise.all([
   })
 
   map.on('mousemove', 'checkins',function(e) {
-    var features = map.queryRenderedFeatures(e.point);
-    // if the features have no info, return nothing
-    if (!features.length) {
-      return;
-    }
-    var feature = features[0];
-    popup.setLngLat(feature.geometry.coordinates)
+    popup.setLngLat(e.lngLat)
     .setHTML(
       '<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'><div>' 
-      + feature.properties.title + '</div></div>'
+      + e.features[0].properties.title + '</div></div>'
     )
     .addTo(map);
   });
