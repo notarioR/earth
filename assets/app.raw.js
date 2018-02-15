@@ -361,10 +361,17 @@ Promise.all([
   })
 
   map.on('mousemove', 'checkins',function(e) {
+    var dateC  = String(e.features[0].properties.date)
+    var titleC = e.features[0].properties.title
+
+    var year  = dateC.slice(0,4)
+    var month = dateC.slice(4,6)
+    var day   = dateC.slice(6,8)
+
     popup.setLngLat(e.lngLat)
     .setHTML(
-      '<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'><div>' 
-      + e.features[0].properties.title + '</div></div>'
+      '<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'><ul><li><span>' 
+      + titleC + '</span></li><li><span>DATE: ' + day +'-'+ month +'-'+ year + '</span></li></ul></div>'
     )
     .addTo(map);
   });
