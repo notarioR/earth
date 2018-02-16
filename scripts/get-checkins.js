@@ -8,9 +8,9 @@ const LIMIT = 250;
 const checkins = [];
 
 const start = (offset = 0) => {
-  const URL =
+  const URL = "https://api.foursquare.com/v2/"
   console.log('Requesting checkins at offset: ' + offset);
-  got('https://api.foursquare.com/v2/users/self/checkins', {
+  got(URL +'users/self/checkins', {
     json: true,
     query: {
       oauth_token: process.env.ACCESS_TOKEN_FOURSQUARE,
@@ -21,6 +21,7 @@ const start = (offset = 0) => {
     }
   }).then(({body}) => {
     const { items } = body.response.checkins;
+    console.log(items)
     if (!items || !items.length){
       console.log('No more items.');
       const FILE = path.resolve(__dirname, '../data/checkins.json');
@@ -33,9 +34,9 @@ const start = (offset = 0) => {
     const date = new Date(firstCreatedAt*1000);
     console.log(`Batch #${offset}: ${date.toDateString()}`);
 
+
     items.forEach((item, i) => {
       try {
-        // console.log(item, i)
         const {venue, createdAt, timeZoneOffset, photos} = item;
         if (!venue) return;
         const {id, name, location} = venue;
@@ -47,9 +48,25 @@ const start = (offset = 0) => {
         console.warn(item);
       }
     });
+    // getTips('4b26840df964a520bb7c24e3')
 
     start(offset+LIMIT);
-  }).catch((e) => console.warn(e));
-};
+  }).catch((e) => console.warn(e)); 
 
+ //   function getTips(id){
+ //    got(URL +'venues/'+id+'/tips', {
+ //      json: true,
+ //      query: {
+ //        oauth_token: process.env.ACCESS_TOKEN_FOURSQUARE,
+ //        limit: LIMIT,
+ //        offset: 0,
+ //        v: '20161201',
+ //        m: 'swarm'
+ //    }
+ //   }).then( function callback(response){
+ //     console.log(response.body.response);
+ //   }).catch((e) => console.log(e));
+ // };
+
+};
 start();
