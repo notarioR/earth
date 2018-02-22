@@ -7,11 +7,11 @@ if (!mapboxgl.supported()) {
   alert("Hi sorry, looks like your browser is not supported to render the map 😢.\n\nYou could try to load this site on another (latest) browser perhaps? 🙏");
 }
 
-mapboxgl.accessToken = 'pk.eyJ1IjoiY2hlZWF1biIsImEiOiJjaXhmb3o3bTEwMDAzMnRudTJuNjh1eXQ1In0.yO6WeKJwx6yIPoVx5aPavQ';
+mapboxgl.accessToken = 'pk.eyJ1Ijoibm90YXJpb3IiLCJhIjoiY2pkaTBucHhnMTRidDMzcDdmdmd5Z2NrMyJ9._Ci1uQMxTwj9M8V6ebhu1g';
 
 const map = new mapboxgl.Map({
   container: 'map',
-  style: 'mapbox://styles/cheeaun/cixol8ezg002g2rqs007w3jmt',
+  style: 'mapbox://styles/mapbox/dark-v9',
   maxZoom: 15.5,
   logoPosition: 'top-right',
   attributionControl: false,
