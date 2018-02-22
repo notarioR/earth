@@ -4,6 +4,174 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"id": "579e5655498ed88f45f0ae1f",
+				"date": 20180218,
+				"country": "Spain",
+				"cc": "ES",
+				"title": "Lambik",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-4.479,
+					36.722
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4ba57e4bf964a520870c39e3",
+				"date": 20180218,
+				"country": "Spain",
+				"cc": "ES",
+				"title": "Bar Filo",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-4.419,
+					36.723
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4cddc4fddb125481635e2cce",
+				"date": 20180217,
+				"country": "Spain",
+				"cc": "ES",
+				"title": "Morrissey's",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-4.421,
+					36.723
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b52ffc2f964a5203f8c27e3",
+				"date": 20180217,
+				"country": "Spain",
+				"cc": "ES",
+				"title": "Mesón Mariano",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-4.42,
+					36.723
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5009aa29e4b03c6eb2bf7460",
+				"date": 20180217,
+				"country": "Spain",
+				"cc": "ES",
+				"title": "La Tranca",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-4.421,
+					36.724
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4efe3bdf30f8992330c72350",
+				"date": 20180217,
+				"country": "Spain",
+				"cc": "ES",
+				"title": "Taberna del Repique",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-4.419,
+					36.724
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "56f43fdc498ec7e3aa2e361b",
+				"date": 20180217,
+				"country": "Spain",
+				"cc": "ES",
+				"title": "El Pirindín",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-4.43,
+					36.713
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b86d8bbf964a52046a131e3",
+				"date": 20180217,
+				"country": "Spain",
+				"cc": "ES",
+				"title": "La Galerna",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-4.372,
+					36.721
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"id": "4b8399a6f964a520f00a31e3",
 				"date": 20180205,
 				"country": "Spain",
@@ -206,7 +374,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					100.535,
+					100.534,
 					13.746
 				]
 			}
@@ -752,7 +920,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					98.772,
+					98.773,
 					7.738
 				]
 			}
@@ -920,8 +1088,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					100.601,
-					13.919
+					100.602,
+					13.918
 				]
 			}
 		},
@@ -2076,7 +2244,7 @@
 				"type": "Point",
 				"coordinates": [
 					0.261,
-					51.89
+					51.889
 				]
 			}
 		},
@@ -2475,7 +2643,7 @@
 				"type": "Point",
 				"coordinates": [
 					0.261,
-					51.89
+					51.889
 				]
 			}
 		},

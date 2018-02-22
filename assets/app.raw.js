@@ -7,7 +7,7 @@ if (!mapboxgl.supported()) {
   alert("Hi sorry, looks like your browser is not supported to render the map 😢.\n\nYou could try to load this site on another (latest) browser perhaps? 🙏");
 }
 
-mapboxgl.accessToken = 'pk.eyJ1Ijoibm90YXJpb3IiLCJhIjoiY2pkaTBucHhnMTRidDMzcDdmdmd5Z2NrMyJ9._Ci1uQMxTwj9M8V6ebhu1g';
+mapboxgl.accessToken='pk.eyJ1Ijoibm90YXJpb3IiLCJhIjoiY2pkaTBucHhnMTRidDMzcDdmdmd5Z2NrMyJ9._Ci1uQMxTwj9M8V6ebhu1g';
 
 const map = new mapboxgl.Map({
   container: 'map',
