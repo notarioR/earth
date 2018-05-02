@@ -4,6 +4,552 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"id": "4ba5688ff964a520390439e3",
+				"date": 20180502,
+				"country": "Poland",
+				"cc": "PL",
+				"title": "U Szwejka",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.016,
+					52.221
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b8e18ddf964a5204c1833e3",
+				"date": 20180501,
+				"country": "Poland",
+				"cc": "PL",
+				"title": "Metro Centrum",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.01,
+					52.231
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b8128ccf964a520ba9830e3",
+				"date": 20180501,
+				"country": "Poland",
+				"cc": "PL",
+				"title": "Wawel Castle (Zamek Królewski na Wawelu)",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.935,
+					50.054
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4c1cece2b9f876b0a8a77c46",
+				"date": 20180501,
+				"country": "Poland",
+				"cc": "PL",
+				"title": "Frantic",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.936,
+					50.062
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "572d30f4498e9d523df4cd4c",
+				"date": 20180430,
+				"country": "Poland",
+				"cc": "PL",
+				"title": "Banialuka",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.935,
+					50.063
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4e3ecc6ab61cb577be894833",
+				"date": 20180430,
+				"country": "Poland",
+				"cc": "PL",
+				"title": "Babcia Malina",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.942,
+					50.064
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4c1381b0a9c220a1e3cf559d",
+				"date": 20180430,
+				"country": "Poland",
+				"cc": "PL",
+				"title": "Zakrzówek",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.91,
+					50.037
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "517af4e0498e8b833b9822c0",
+				"date": 20180430,
+				"country": "Poland",
+				"cc": "PL",
+				"title": "FORUM Przestrzenie",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.936,
+					50.045
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4bc987cdfb84c9b6b03b1b3e",
+				"date": 20180429,
+				"country": "Poland",
+				"cc": "PL",
+				"title": "Memorial and Museum Auschwitz-Birkenau (Miejsce Pamięci i Muzeum Auschwitz-Birkenau)",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.201,
+					50.028
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4ba9050ef964a52059043ae3",
+				"date": 20180428,
+				"country": "Poland",
+				"cc": "PL",
+				"title": "Nova Resto Bar",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.946,
+					50.051
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "598591adbfc6d0756d551e45",
+				"date": 20180428,
+				"country": "Poland",
+				"cc": "PL",
+				"title": "Krakov",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.937,
+					50.062
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b545512f964a520ceb727e3",
+				"date": 20180428,
+				"country": "Poland",
+				"cc": "PL",
+				"title": "Warsaw Central Railway Station (Warszawa Centralna)",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.003,
+					52.229
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "58c9abc5c30f79556f47163e",
+				"date": 20180428,
+				"country": "Poland",
+				"cc": "PL",
+				"title": "Teatro Cubano Warsaw",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.01,
+					52.242
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5008f4d6e4b013da82c0cafc",
+				"date": 20180427,
+				"country": "Poland",
+				"cc": "PL",
+				"title": "Warsaw Modlin Airport (WMI) (Port Lotniczy Warszawa/Modlin)",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.651,
+					52.446
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4ac518f7f964a520a5af20e3",
+				"date": 20180427,
+				"country": "United Kingdom",
+				"cc": "GB",
+				"title": "London Stansted Airport (STN)",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.261,
+					51.89
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4c4d624bdb2c20a12730b972",
+				"date": 20180427,
+				"country": "United Kingdom",
+				"cc": "GB",
+				"title": "Westfield Stratford City",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.006,
+					51.543
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "5866a25e53f5bb19264a061c",
+				"date": 20180427,
+				"country": "United Kingdom",
+				"cc": "GB",
+				"title": "Drury 188-189",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.124,
+					51.516
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4ad08b28f964a52064d820e3",
+				"date": 20180426,
+				"country": "United Kingdom",
+				"cc": "GB",
+				"title": "Westfield London",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.221,
+					51.507
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4ae83e74f964a5204bae21e3",
+				"date": 20180426,
+				"country": "United Kingdom",
+				"cc": "GB",
+				"title": "London Paddington Railway Station (PAD)",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.177,
+					51.517
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4baca654f964a520c7003be3",
+				"date": 20180305,
+				"country": "United Kingdom",
+				"cc": "GB",
+				"title": "Stonehenge",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.832,
+					51.18
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b9d06fbf964a520978936e3",
+				"date": 20180303,
+				"country": "United Kingdom",
+				"cc": "GB",
+				"title": "Vue Cinema",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.107,
+					51.534
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4e4ff77e52b1e893ad62a5a9",
+				"date": 20180302,
+				"country": "United Kingdom",
+				"cc": "GB",
+				"title": "Pizarro",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.081,
+					51.498
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b8399a6f964a520f00a31e3",
+				"date": 20180302,
+				"country": "Spain",
+				"cc": "ES",
+				"title": "Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-4.492,
+					36.676
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "57238ecb498e3c0f971378a0",
+				"date": 20180223,
+				"country": "Spain",
+				"cc": "ES",
+				"title": "Taberna Alambique",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.991,
+					37.39
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4b57b3bbf964a520bc3c28e3",
+				"date": 20180223,
+				"country": "Spain",
+				"cc": "ES",
+				"title": "Salvador Square (Plaza del Salvador)",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.993,
+					37.39
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "4d31fa905c2db60c4d85bd6c",
+				"date": 20180223,
+				"country": "Spain",
+				"cc": "ES",
+				"title": "Seville (Sevilla)",
+				"photos": {
+					"count": 0,
+					"items": []
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-5.995,
+					37.393
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"id": "579e5655498ed88f45f0ae1f",
 				"date": 20180218,
 				"country": "Spain",
@@ -186,7 +732,7 @@
 				"type": "Point",
 				"coordinates": [
 					-4.492,
-					36.677
+					36.676
 				]
 			}
 		},
@@ -354,7 +900,7 @@
 				"type": "Point",
 				"coordinates": [
 					100.751,
-					13.692
+					13.693
 				]
 			}
 		},
@@ -374,8 +920,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					100.534,
-					13.746
+					100.535,
+					13.747
 				]
 			}
 		},
@@ -920,7 +1466,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					98.773,
+					98.771,
 					7.738
 				]
 			}
@@ -1110,7 +1656,7 @@
 				"type": "Point",
 				"coordinates": [
 					100.751,
-					13.692
+					13.693
 				]
 			}
 		},
@@ -1131,7 +1677,7 @@
 				"type": "Point",
 				"coordinates": [
 					98.968,
-					18.769
+					18.77
 				]
 			}
 		},
@@ -1760,7 +2306,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					100.504,
+					100.503,
 					13.704
 				]
 			}
@@ -1782,7 +2328,7 @@
 				"type": "Point",
 				"coordinates": [
 					100.493,
-					13.751
+					13.752
 				]
 			}
 		},
@@ -1814,7 +2360,7 @@
 				"date": 20180106,
 				"country": "Thailand",
 				"cc": "TH",
-				"title": "Wat Intrarawihan (วัดอินทรวิหาร)",
+				"title": "Wat Intharawihan (วัดอินทรวิหาร)",
 				"photos": {
 					"count": 0,
 					"items": []
@@ -1866,7 +2412,7 @@
 				"type": "Point",
 				"coordinates": [
 					100.751,
-					13.692
+					13.693
 				]
 			}
 		},
@@ -2034,7 +2580,7 @@
 				"type": "Point",
 				"coordinates": [
 					-4.492,
-					36.677
+					36.676
 				]
 			}
 		},
@@ -2244,7 +2790,7 @@
 				"type": "Point",
 				"coordinates": [
 					0.261,
-					51.889
+					51.89
 				]
 			}
 		},
@@ -2643,7 +3189,7 @@
 				"type": "Point",
 				"coordinates": [
 					0.261,
-					51.889
+					51.89
 				]
 			}
 		},
@@ -2705,7 +3251,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-2.581,
+					-2.58,
 					51.449
 				]
 			}
@@ -2810,7 +3356,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-2.361,
+					-2.36,
 					51.381
 				]
 			}
@@ -2895,7 +3441,7 @@
 				"type": "Point",
 				"coordinates": [
 					-4.492,
-					36.677
+					36.676
 				]
 			}
 		},
@@ -2937,7 +3483,7 @@
 				"type": "Point",
 				"coordinates": [
 					-4.492,
-					36.677
+					36.676
 				]
 			}
 		},
@@ -3147,7 +3693,7 @@
 				"type": "Point",
 				"coordinates": [
 					-4.492,
-					36.677
+					36.676
 				]
 			}
 		},
@@ -3734,7 +4280,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-2.977,
+					-2.975,
 					51.345
 				]
 			}
@@ -4488,7 +5034,7 @@
 				"type": "Point",
 				"coordinates": [
 					-4.492,
-					36.677
+					36.676
 				]
 			}
 		},
@@ -6573,7 +7119,7 @@
 				"type": "Point",
 				"coordinates": [
 					-8.938,
-					53.14
+					53.139
 				]
 			}
 		},
@@ -6909,7 +7455,7 @@
 				"type": "Point",
 				"coordinates": [
 					-4.492,
-					36.677
+					36.676
 				]
 			}
 		},
@@ -11009,8 +11555,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-3.691,
-					40.407
+					-3.69,
+					40.406
 				]
 			}
 		},
@@ -11471,8 +12017,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-3.691,
-					40.407
+					-3.69,
+					40.406
 				]
 			}
 		},
@@ -18452,7 +18998,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-3.6,
+					-3.602,
 					37.175
 				]
 			}
@@ -24836,7 +25382,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-3.6,
+					-3.602,
 					37.175
 				]
 			}
@@ -25467,7 +26013,7 @@
 				"type": "Point",
 				"coordinates": [
 					-4.492,
-					36.677
+					36.676
 				]
 			}
 		},
@@ -25572,7 +26118,7 @@
 				"type": "Point",
 				"coordinates": [
 					-4.492,
-					36.677
+					36.676
 				]
 			}
 		},
@@ -25662,7 +26208,7 @@
 				"type": "Point",
 				"coordinates": [
 					-4.492,
-					36.677
+					36.676
 				]
 			}
 		},
@@ -26465,8 +27011,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-4.423,
-					36.72
+					-4.424,
+					36.721
 				]
 			}
 		},
@@ -28674,7 +29220,7 @@
 				"type": "Point",
 				"coordinates": [
 					-4.492,
-					36.677
+					36.676
 				]
 			}
 		},
@@ -33098,7 +33644,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-3.6,
+					-3.602,
 					37.175
 				]
 			}
@@ -33538,7 +34084,7 @@
 								"name": "Foursquare for iOS",
 								"url": "https://foursquare.com/download/#/iphone"
 							},
-							"prefix": "https://irs0.4sqi.net/img/general/",
+							"prefix": "https://igx.4sqi.net/img/general/",
 							"suffix": "/SR3FFWF4USN2JDRPKIKA3GXBVCQAQXJR1CTWWGMXO5CVNZJ1.jpg",
 							"width": 537,
 							"height": 720,

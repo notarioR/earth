@@ -1,5 +1,369 @@
 [
 	{
+		"id": "4ba5688ff964a520390439e3",
+		"name": "U Szwejka",
+		"lat": 52.221342943279055,
+		"lng": 21.015905636930253,
+		"country": "Poland",
+		"cc": "PL",
+		"createdAt": 1525260884,
+		"timeZoneOffset": 120,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4b8e18ddf964a5204c1833e3",
+		"name": "Metro Centrum",
+		"lat": 52.230541361562565,
+		"lng": 21.010467410087585,
+		"country": "Poland",
+		"cc": "PL",
+		"createdAt": 1525196601,
+		"timeZoneOffset": 120,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4b8128ccf964a520ba9830e3",
+		"name": "Wawel Castle (Zamek Królewski na Wawelu)",
+		"lat": 50.05385989826648,
+		"lng": 19.935035705566406,
+		"country": "Poland",
+		"cc": "PL",
+		"createdAt": 1525175558,
+		"timeZoneOffset": 120,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4c1cece2b9f876b0a8a77c46",
+		"name": "Frantic",
+		"lat": 50.06240232401387,
+		"lng": 19.935603479504884,
+		"country": "Poland",
+		"cc": "PL",
+		"createdAt": 1525131836,
+		"timeZoneOffset": 120,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "572d30f4498e9d523df4cd4c",
+		"name": "Banialuka",
+		"lat": 50.06263955346393,
+		"lng": 19.934856810764582,
+		"country": "Poland",
+		"cc": "PL",
+		"createdAt": 1525121381,
+		"timeZoneOffset": 120,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4e3ecc6ab61cb577be894833",
+		"name": "Babcia Malina",
+		"lat": 50.06410776344116,
+		"lng": 19.942294694754573,
+		"country": "Poland",
+		"cc": "PL",
+		"createdAt": 1525121359,
+		"timeZoneOffset": 120,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4c1381b0a9c220a1e3cf559d",
+		"name": "Zakrzówek",
+		"lat": 50.036537,
+		"lng": 19.909561,
+		"country": "Poland",
+		"cc": "PL",
+		"createdAt": 1525092547,
+		"timeZoneOffset": 120,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "517af4e0498e8b833b9822c0",
+		"name": "FORUM Przestrzenie",
+		"lat": 50.045456303602485,
+		"lng": 19.93570632918931,
+		"country": "Poland",
+		"cc": "PL",
+		"createdAt": 1525082056,
+		"timeZoneOffset": 120,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4bc987cdfb84c9b6b03b1b3e",
+		"name": "Memorial and Museum Auschwitz-Birkenau (Miejsce Pamięci i Muzeum Auschwitz-Birkenau)",
+		"lat": 50.028090061341224,
+		"lng": 19.20117288906566,
+		"country": "Poland",
+		"cc": "PL",
+		"createdAt": 1524993095,
+		"timeZoneOffset": 120,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4ba9050ef964a52059043ae3",
+		"name": "Nova Resto Bar",
+		"lat": 50.051435981271034,
+		"lng": 19.94584481742575,
+		"country": "Poland",
+		"cc": "PL",
+		"createdAt": 1524948794,
+		"timeZoneOffset": 120,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "598591adbfc6d0756d551e45",
+		"name": "Krakov",
+		"lat": 50.061658,
+		"lng": 19.937436,
+		"country": "Poland",
+		"cc": "PL",
+		"createdAt": 1524930354,
+		"timeZoneOffset": 120,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4b545512f964a520ceb727e3",
+		"name": "Warsaw Central Railway Station (Warszawa Centralna)",
+		"lat": 52.22883377691837,
+		"lng": 21.00342835527594,
+		"country": "Poland",
+		"cc": "PL",
+		"createdAt": 1524919582,
+		"timeZoneOffset": 120,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "58c9abc5c30f79556f47163e",
+		"name": "Teatro Cubano Warsaw",
+		"lat": 52.2422387302341,
+		"lng": 21.009697533250982,
+		"country": "Poland",
+		"cc": "PL",
+		"createdAt": 1524867418,
+		"timeZoneOffset": 120,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "5008f4d6e4b013da82c0cafc",
+		"name": "Warsaw Modlin Airport (WMI) (Port Lotniczy Warszawa/Modlin)",
+		"lat": 52.445920357974174,
+		"lng": 20.651410818099976,
+		"country": "Poland",
+		"cc": "PL",
+		"createdAt": 1524857101,
+		"timeZoneOffset": 120,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4ac518f7f964a520a5af20e3",
+		"name": "London Stansted Airport (STN)",
+		"lat": 51.88968414257245,
+		"lng": 0.2610796708898211,
+		"country": "United Kingdom",
+		"cc": "GB",
+		"createdAt": 1524841811,
+		"timeZoneOffset": 60,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4c4d624bdb2c20a12730b972",
+		"name": "Westfield Stratford City",
+		"lat": 51.54323362867634,
+		"lng": -0.006097985344807425,
+		"country": "United Kingdom",
+		"cc": "GB",
+		"createdAt": 1524834561,
+		"timeZoneOffset": 60,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "5866a25e53f5bb19264a061c",
+		"name": "Drury 188-189",
+		"lat": 51.516058066090025,
+		"lng": -0.12411513602379382,
+		"country": "United Kingdom",
+		"cc": "GB",
+		"createdAt": 1524823975,
+		"timeZoneOffset": 60,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4ad08b28f964a52064d820e3",
+		"name": "Westfield London",
+		"lat": 51.507277458236054,
+		"lng": -0.2212971986726084,
+		"country": "United Kingdom",
+		"cc": "GB",
+		"createdAt": 1524775346,
+		"timeZoneOffset": 60,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4ae83e74f964a5204bae21e3",
+		"name": "London Paddington Railway Station (PAD)",
+		"lat": 51.516917838864025,
+		"lng": -0.17725527587727627,
+		"country": "United Kingdom",
+		"cc": "GB",
+		"createdAt": 1524766094,
+		"timeZoneOffset": 60,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4baca654f964a520c7003be3",
+		"name": "Stonehenge",
+		"lat": 51.179865062456884,
+		"lng": -1.8322206773884595,
+		"country": "United Kingdom",
+		"cc": "GB",
+		"createdAt": 1520260532,
+		"timeZoneOffset": 0,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4b9d06fbf964a520978936e3",
+		"name": "Vue Cinema",
+		"lat": 51.53418885953911,
+		"lng": -0.10665849823853091,
+		"country": "United Kingdom",
+		"cc": "GB",
+		"createdAt": 1520094887,
+		"timeZoneOffset": 0,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4e4ff77e52b1e893ad62a5a9",
+		"name": "Pizarro",
+		"lat": 51.49832202534203,
+		"lng": -0.08117909724309832,
+		"country": "United Kingdom",
+		"cc": "GB",
+		"createdAt": 1520024608,
+		"timeZoneOffset": 0,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4b8399a6f964a520f00a31e3",
+		"name": "Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)",
+		"lat": 36.676483243059,
+		"lng": -4.49169353031987,
+		"country": "Spain",
+		"cc": "ES",
+		"createdAt": 1519996420,
+		"timeZoneOffset": 60,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "57238ecb498e3c0f971378a0",
+		"name": "Taberna Alambique",
+		"lat": 37.390446,
+		"lng": -5.9908314,
+		"country": "Spain",
+		"cc": "ES",
+		"createdAt": 1519424669,
+		"timeZoneOffset": 60,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4b57b3bbf964a520bc3c28e3",
+		"name": "Salvador Square (Plaza del Salvador)",
+		"lat": 37.390027245442965,
+		"lng": -5.993213506881148,
+		"country": "Spain",
+		"cc": "ES",
+		"createdAt": 1519424094,
+		"timeZoneOffset": 60,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
+		"id": "4d31fa905c2db60c4d85bd6c",
+		"name": "Seville (Sevilla)",
+		"lat": 37.392706484797344,
+		"lng": -5.995472073554992,
+		"country": "Spain",
+		"cc": "ES",
+		"createdAt": 1519403433,
+		"timeZoneOffset": 60,
+		"photos": {
+			"count": 0,
+			"items": []
+		}
+	},
+	{
 		"id": "579e5655498ed88f45f0ae1f",
 		"name": "Lambik",
 		"lat": 36.721552,
@@ -114,8 +478,8 @@
 	{
 		"id": "4b8399a6f964a520f00a31e3",
 		"name": "Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)",
-		"lat": 36.676699051022375,
-		"lng": -4.492206654787051,
+		"lat": 36.676483243059,
+		"lng": -4.49169353031987,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1517822294,
@@ -226,8 +590,8 @@
 	{
 		"id": "4af833a6f964a5205a0b22e3",
 		"name": "Suvarnabhumi Airport (BKK) (ท่าอากาศยานสุวรรณภูมิ)",
-		"lat": 13.692175363309106,
-		"lng": 100.75057633197254,
+		"lat": 13.693077723576252,
+		"lng": 100.7512095521572,
 		"country": "Thailand",
 		"cc": "TH",
 		"createdAt": 1517325993,
@@ -240,8 +604,8 @@
 	{
 		"id": "4b0587fdf964a52034ab22e3",
 		"name": "Siam Paragon (สยามพารากอน)",
-		"lat": 13.746089885727946,
-		"lng": 100.53433298459893,
+		"lat": 13.746979229315318,
+		"lng": 100.53491234779358,
 		"country": "Thailand",
 		"cc": "TH",
 		"createdAt": 1517306840,
@@ -268,8 +632,8 @@
 	{
 		"id": "4b506953f964a520832227e3",
 		"name": "MBK Center (เอ็ม บี เค เซ็นเตอร์)",
-		"lat": 13.744975469678113,
-		"lng": 100.53005919511068,
+		"lat": 13.745007607522636,
+		"lng": 100.53012511323146,
 		"country": "Thailand",
 		"cc": "TH",
 		"createdAt": 1517292941,
@@ -296,8 +660,8 @@
 	{
 		"id": "59aeeb313b4e005ece9ca51c",
 		"name": "Instanity",
-		"lat": 13.745152977942233,
-		"lng": 100.55644993965298,
+		"lat": 13.74514736362445,
+		"lng": 100.55642111733236,
 		"country": "Thailand",
 		"cc": "TH",
 		"createdAt": 1517248518,
@@ -450,8 +814,8 @@
 	{
 		"id": "51499134e4b0279f25186c37",
 		"name": "Haad Rin",
-		"lat": 9.677114262736824,
-		"lng": 100.06783441148592,
+		"lat": 9.677476764725096,
+		"lng": 100.06814825306866,
 		"country": "Thailand",
 		"cc": "TH",
 		"createdAt": 1516708643,
@@ -604,8 +968,8 @@
 	{
 		"id": "4d3ee0698edf37040738c8a5",
 		"name": "Phi Phi Island (เกาะพีพี)",
-		"lat": 7.738489855677476,
-		"lng": 98.7730652991951,
+		"lat": 7.7376840300466645,
+		"lng": 98.77090816670187,
 		"country": "Thailand",
 		"cc": "TH",
 		"createdAt": 1516264486,
@@ -702,8 +1066,8 @@
 	{
 		"id": "4b750bc1f964a5201afc2de3",
 		"name": "Krabi International Airport (KBV) (ท่าอากาศยานนานาชาติกระบี่)",
-		"lat": 8.097623420786618,
-		"lng": 98.9814106414741,
+		"lat": 8.097706105672545,
+		"lng": 98.9812973710404,
 		"country": "Thailand",
 		"cc": "TH",
 		"createdAt": 1516036042,
@@ -716,8 +1080,8 @@
 	{
 		"id": "4b2df07cf964a5201bdc24e3",
 		"name": "Don Mueang International Airport (DMK) (ท่าอากาศยานดอนเมือง)",
-		"lat": 13.918185773696484,
-		"lng": 100.60150919978871,
+		"lat": 13.9182754677839,
+		"lng": 100.60152019466668,
 		"country": "Thailand",
 		"cc": "TH",
 		"createdAt": 1516024165,
@@ -730,8 +1094,8 @@
 	{
 		"id": "4af833a6f964a5205a0b22e3",
 		"name": "Suvarnabhumi Airport (BKK) (ท่าอากาศยานสุวรรณภูมิ)",
-		"lat": 13.692175363309106,
-		"lng": 100.75057633197254,
+		"lat": 13.693077723576252,
+		"lng": 100.7512095521572,
 		"country": "Thailand",
 		"cc": "TH",
 		"createdAt": 1516018519,
@@ -744,8 +1108,8 @@
 	{
 		"id": "4b8e687ff964a520422133e3",
 		"name": "Chiang Mai International Airport (CNX) (ท่าอากาศยานเชียงใหม่)",
-		"lat": 18.769409055135302,
-		"lng": 98.96832089354108,
+		"lat": 18.76969619381395,
+		"lng": 98.96830471472902,
 		"country": "Thailand",
 		"cc": "TH",
 		"createdAt": 1516003114,
@@ -1038,8 +1402,8 @@
 	{
 		"id": "4cf27b702eb25941b0b6baa1",
 		"name": "Wat Yaichaimongkol (วัดใหญ่ชัยมงคล)",
-		"lat": 14.345998102070292,
-		"lng": 100.59296657503828,
+		"lat": 14.345794245683615,
+		"lng": 100.59286213342092,
 		"country": "Thailand",
 		"cc": "TH",
 		"createdAt": 1515485383,
@@ -1094,8 +1458,8 @@
 	{
 		"id": "4b65793af964a520c0f12ae3",
 		"name": "Bangkok Bus Terminal (Chatuchak) (สถานีขนส่งผู้โดยสารกรุงเทพฯ (จตุจักร))",
-		"lat": 13.812749359526562,
-		"lng": 100.54816099047916,
+		"lat": 13.812648897473752,
+		"lng": 100.54812802493903,
 		"country": "Thailand",
 		"cc": "TH",
 		"createdAt": 1515461929,
@@ -1164,8 +1528,8 @@
 	{
 		"id": "4e6f7754d1647b1137f5cf9e",
 		"name": "Asiatique The Riverfront (เอเชียทีค เดอะ ริเวอร์ฟร้อนท์)",
-		"lat": 13.704329612497345,
-		"lng": 100.50365181510314,
+		"lat": 13.704473308539379,
+		"lng": 100.50347608433637,
 		"country": "Thailand",
 		"cc": "TH",
 		"createdAt": 1515334729,
@@ -1178,8 +1542,8 @@
 	{
 		"id": "4d9bdddd7ae5548198a34174",
 		"name": "Prasat Phra Thep Bidon (ปราสาทพระเทพบิดร)",
-		"lat": 13.7514524710073,
-		"lng": 100.49286147385915,
+		"lat": 13.751606,
+		"lng": 100.49272,
 		"country": "Thailand",
 		"cc": "TH",
 		"createdAt": 1515314663,
@@ -1205,7 +1569,7 @@
 	},
 	{
 		"id": "4c3ab84ed94dc9b6c8b8fee7",
-		"name": "Wat Intrarawihan (วัดอินทรวิหาร)",
+		"name": "Wat Intharawihan (วัดอินทรวิหาร)",
 		"lat": 13.766824382902604,
 		"lng": 100.50304774200642,
 		"country": "Thailand",
@@ -1234,8 +1598,8 @@
 	{
 		"id": "4af833a6f964a5205a0b22e3",
 		"name": "Suvarnabhumi Airport (BKK) (ท่าอากาศยานสุวรรณภูมิ)",
-		"lat": 13.692175363309106,
-		"lng": 100.75057633197254,
+		"lat": 13.693077723576252,
+		"lng": 100.7512095521572,
 		"country": "Thailand",
 		"cc": "TH",
 		"createdAt": 1515239624,
@@ -1346,8 +1710,8 @@
 	{
 		"id": "4b8399a6f964a520f00a31e3",
 		"name": "Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)",
-		"lat": 36.676699051022375,
-		"lng": -4.492206654787051,
+		"lat": 36.676483243059,
+		"lng": -4.49169353031987,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1511527177,
@@ -1486,8 +1850,8 @@
 	{
 		"id": "4ac518f7f964a520a5af20e3",
 		"name": "London Stansted Airport (STN)",
-		"lat": 51.88947501854436,
-		"lng": 0.261148018841025,
+		"lat": 51.88968414257245,
+		"lng": 0.2610796708898211,
 		"country": "United Kingdom",
 		"cc": "GB",
 		"createdAt": 1498736573,
@@ -1752,8 +2116,8 @@
 	{
 		"id": "4ac518f7f964a520a5af20e3",
 		"name": "London Stansted Airport (STN)",
-		"lat": 51.88947501854436,
-		"lng": 0.261148018841025,
+		"lat": 51.88968414257245,
+		"lng": 0.2610796708898211,
 		"country": "United Kingdom",
 		"cc": "GB",
 		"createdAt": 1497926862,
@@ -1766,8 +2130,8 @@
 	{
 		"id": "4acd8e7df964a52044cc20e3",
 		"name": "London Waterloo Railway Station (WAT)",
-		"lat": 51.50317146230571,
-		"lng": -0.11294255273388702,
+		"lat": 51.50312495229334,
+		"lng": -0.11277726939299178,
 		"country": "United Kingdom",
 		"cc": "GB",
 		"createdAt": 1497923616,
@@ -1794,8 +2158,8 @@
 	{
 		"id": "4b0d73a0f964a520994823e3",
 		"name": "Bristol Temple Meads Railway Station (BRI) (TPB)",
-		"lat": 51.44933406244811,
-		"lng": -2.5807675663950462,
+		"lat": 51.44940660233373,
+		"lng": -2.5803498713182518,
 		"country": "United Kingdom",
 		"cc": "GB",
 		"createdAt": 1497910102,
@@ -1864,8 +2228,8 @@
 	{
 		"id": "4c6553c1f67ec928703b5727",
 		"name": "Bath",
-		"lat": 51.3807500583078,
-		"lng": -2.3608444155732737,
+		"lat": 51.381398111272205,
+		"lng": -2.3595979185050275,
 		"country": "United Kingdom",
 		"cc": "GB",
 		"createdAt": 1493462168,
@@ -1920,8 +2284,8 @@
 	{
 		"id": "4b8399a6f964a520f00a31e3",
 		"name": "Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)",
-		"lat": 36.676699051022375,
-		"lng": -4.492206654787051,
+		"lat": 36.676483243059,
+		"lng": -4.49169353031987,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1488613316,
@@ -1948,8 +2312,8 @@
 	{
 		"id": "4b8399a6f964a520f00a31e3",
 		"name": "Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)",
-		"lat": 36.676699051022375,
-		"lng": -4.492206654787051,
+		"lat": 36.676483243059,
+		"lng": -4.49169353031987,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1485423975,
@@ -2088,8 +2452,8 @@
 	{
 		"id": "4b8399a6f964a520f00a31e3",
 		"name": "Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)",
-		"lat": 36.676699051022375,
-		"lng": -4.492206654787051,
+		"lat": 36.676483243059,
+		"lng": -4.49169353031987,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1483090229,
@@ -2480,8 +2844,8 @@
 	{
 		"id": "4b77f726f964a52060b02ee3",
 		"name": "Weston-super-Mare",
-		"lat": 51.34490806322861,
-		"lng": -2.9773258581322977,
+		"lat": 51.34476521994366,
+		"lng": -2.974965725584347,
 		"country": "United Kingdom",
 		"cc": "GB",
 		"createdAt": 1475661722,
@@ -3009,8 +3373,8 @@
 	{
 		"id": "4b8399a6f964a520f00a31e3",
 		"name": "Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)",
-		"lat": 36.676699051022375,
-		"lng": -4.492206654787051,
+		"lat": 36.676483243059,
+		"lng": -4.49169353031987,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1468910163,
@@ -3429,8 +3793,8 @@
 	{
 		"id": "4baf2c4bf964a5200cef3be3",
 		"name": "Mercado de Atarazanas",
-		"lat": 36.71841046624432,
-		"lng": -4.423928708293902,
+		"lat": 36.718337292556846,
+		"lng": -4.424200940352959,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1460120875,
@@ -4408,8 +4772,8 @@
 	{
 		"id": "4b5230d4f964a520906e27e3",
 		"name": "Kinvara",
-		"lat": 53.13988055119162,
-		"lng": -8.937923508047788,
+		"lat": 53.13913332443282,
+		"lng": -8.937884573758359,
 		"country": "Ireland",
 		"cc": "IE",
 		"createdAt": 1449489221,
@@ -4632,8 +4996,8 @@
 	{
 		"id": "4b8399a6f964a520f00a31e3",
 		"name": "Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)",
-		"lat": 36.676699051022375,
-		"lng": -4.492206654787051,
+		"lat": 36.676483243059,
+		"lng": -4.49169353031987,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1449307659,
@@ -7375,8 +7739,8 @@
 	{
 		"id": "4b5d329ef964a520405629e3",
 		"name": "Madrid-Puerta de Atocha Railway Station (Estación de Madrid-Puerta de Atocha)",
-		"lat": 40.406690742524404,
-		"lng": -3.690788769010427,
+		"lat": 40.406490599966766,
+		"lng": -3.6900803577934655,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1419233649,
@@ -7389,8 +7753,8 @@
 	{
 		"id": "4bed13fe91380f4738689f18",
 		"name": "VIPS",
-		"lat": 40.39312983324736,
-		"lng": -3.677709318177043,
+		"lat": 40.39312898519235,
+		"lng": -3.6778855209089603,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1419196652,
@@ -7655,8 +8019,8 @@
 	{
 		"id": "4bed13fe91380f4738689f18",
 		"name": "VIPS",
-		"lat": 40.39312983324736,
-		"lng": -3.677709318177043,
+		"lat": 40.39312898519235,
+		"lng": -3.6778855209089603,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1414964981,
@@ -7683,8 +8047,8 @@
 	{
 		"id": "4b5d329ef964a520405629e3",
 		"name": "Madrid-Puerta de Atocha Railway Station (Estación de Madrid-Puerta de Atocha)",
-		"lat": 40.406690742524404,
-		"lng": -3.690788769010427,
+		"lat": 40.406490599966766,
+		"lng": -3.6900803577934655,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1414249905,
@@ -12382,8 +12746,8 @@
 	{
 		"id": "4c84a4f451ada1cd3bea3010",
 		"name": "Granada",
-		"lat": 37.175335156783085,
-		"lng": -3.5999901415494637,
+		"lat": 37.17527052630834,
+		"lng": -3.602240185637449,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1361998378,
@@ -16701,8 +17065,8 @@
 	{
 		"id": "4c84a4f451ada1cd3bea3010",
 		"name": "Granada",
-		"lat": 37.175335156783085,
-		"lng": -3.5999901415494637,
+		"lat": 37.17527052630834,
+		"lng": -3.602240185637449,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1322069411,
@@ -17121,8 +17485,8 @@
 	{
 		"id": "4b8399a6f964a520f00a31e3",
 		"name": "Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)",
-		"lat": 36.676699051022375,
-		"lng": -4.492206654787051,
+		"lat": 36.676483243059,
+		"lng": -4.49169353031987,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1318442807,
@@ -17191,8 +17555,8 @@
 	{
 		"id": "4b8399a6f964a520f00a31e3",
 		"name": "Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)",
-		"lat": 36.676699051022375,
-		"lng": -4.492206654787051,
+		"lat": 36.676483243059,
+		"lng": -4.49169353031987,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1317761277,
@@ -17260,8 +17624,8 @@
 	{
 		"id": "4b8399a6f964a520f00a31e3",
 		"name": "Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)",
-		"lat": 36.676699051022375,
-		"lng": -4.492206654787051,
+		"lat": 36.676483243059,
+		"lng": -4.49169353031987,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1317486193,
@@ -17805,8 +18169,8 @@
 	{
 		"id": "4e45ed3a1f6e29f10d9fed2c",
 		"name": "Málaga",
-		"lat": 36.72017290280155,
-		"lng": -4.422984155222408,
+		"lat": 36.720988042724564,
+		"lng": -4.423592083745811,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1313165150,
@@ -19313,8 +19677,8 @@
 	{
 		"id": "4b8399a6f964a520f00a31e3",
 		"name": "Málaga - Costa del Sol Airport (AGP) (Aeropuerto de Málaga - Costa del Sol)",
-		"lat": 36.676699051022375,
-		"lng": -4.492206654787051,
+		"lat": 36.676483243059,
+		"lng": -4.49169353031987,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1309012656,
@@ -19828,8 +20192,8 @@
 	{
 		"id": "4c9c8eed9975a14384ed32cf",
 		"name": "Supersol",
-		"lat": 36.7123855500413,
-		"lng": -4.429681798168744,
+		"lat": 36.712358996963545,
+		"lng": -4.429683752340853,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1307368165,
@@ -22443,8 +22807,8 @@
 	{
 		"id": "4c84a4f451ada1cd3bea3010",
 		"name": "Granada",
-		"lat": 37.175335156783085,
-		"lng": -3.5999901415494637,
+		"lat": 37.17527052630834,
+		"lng": -3.602240185637449,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1298114800,
@@ -22778,7 +23142,7 @@
 						"name": "Foursquare for iOS",
 						"url": "https://foursquare.com/download/#/iphone"
 					},
-					"prefix": "https://irs0.4sqi.net/img/general/",
+					"prefix": "https://igx.4sqi.net/img/general/",
 					"suffix": "/SR3FFWF4USN2JDRPKIKA3GXBVCQAQXJR1CTWWGMXO5CVNZJ1.jpg",
 					"width": 537,
 					"height": 720,
@@ -24769,8 +25133,8 @@
 	{
 		"id": "4baf2c4bf964a5200cef3be3",
 		"name": "Mercado de Atarazanas",
-		"lat": 36.71841046624432,
-		"lng": -4.423928708293902,
+		"lat": 36.718337292556846,
+		"lng": -4.424200940352959,
 		"country": "Spain",
 		"cc": "ES",
 		"createdAt": 1294487326,
